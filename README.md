@@ -31,7 +31,6 @@ TypeScript is a strongly typed programming language built on JavaScript that add
 - [Useful Commands](#-useful-commands)
 - [Best Practices](#-best-practices)
 - [Resources](#-resources)
-- [License](#-license)
 
 ---
 
